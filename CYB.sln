@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CYBMD5", "CYBMD5\CYBMD5.csproj", "{CCECC715-3454-4B0F-8243-36829BE39CA0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MiniTool", "MiniTool\MiniTool.vcxproj", "{AB32EB20-8AE3-4CC4-B21C-12BA50DD1E63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCECC715-3454-4B0F-8243-36829BE39CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCECC715-3454-4B0F-8243-36829BE39CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCECC715-3454-4B0F-8243-36829BE39CA0}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{CCECC715-3454-4B0F-8243-36829BE39CA0}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{CCECC715-3454-4B0F-8243-36829BE39CA0}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{CCECC715-3454-4B0F-8243-36829BE39CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCECC715-3454-4B0F-8243-36829BE39CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCECC715-3454-4B0F-8243-36829BE39CA0}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{CCECC715-3454-4B0F-8243-36829BE39CA0}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{CCECC715-3454-4B0F-8243-36829BE39CA0}.Release|Win32.ActiveCfg = Release|Any CPU
+		{AB32EB20-8AE3-4CC4-B21C-12BA50DD1E63}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{AB32EB20-8AE3-4CC4-B21C-12BA50DD1E63}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{AB32EB20-8AE3-4CC4-B21C-12BA50DD1E63}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{AB32EB20-8AE3-4CC4-B21C-12BA50DD1E63}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AB32EB20-8AE3-4CC4-B21C-12BA50DD1E63}.Debug|Win32.Build.0 = Debug|Win32
+		{AB32EB20-8AE3-4CC4-B21C-12BA50DD1E63}.Release|Any CPU.ActiveCfg = Release|Win32
+		{AB32EB20-8AE3-4CC4-B21C-12BA50DD1E63}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{AB32EB20-8AE3-4CC4-B21C-12BA50DD1E63}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{AB32EB20-8AE3-4CC4-B21C-12BA50DD1E63}.Release|Win32.ActiveCfg = Release|Win32
+		{AB32EB20-8AE3-4CC4-B21C-12BA50DD1E63}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
